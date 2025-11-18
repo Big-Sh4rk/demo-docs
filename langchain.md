@@ -1,5 +1,4 @@
-# 🤖 LangChain: Plataforma Integral para la Ingeniería de Agentes!!! Cambios
-
+# 🤖 LangChain: Plataforma Integral para la Ingeniería de Agentes
 **LangChain** es un ecosistema de desarrollo líder, diseñado para simplificar la creación de **aplicaciones basadas en Modelos de Lenguaje de Gran Escala (LLMs)**. Su propósito central es ir más allá de las simples llamadas a APIs de LLMs, facilitando la construcción de **agentes autónomos** que pueden razonar, interactuar con datos externos y ejecutar acciones complejas.
 
 > **Actualización 2025:** LangChain alcanzó su versión 1.0 en octubre de 2025, marcando un hito importante con el compromiso de no introducir cambios que rompan la compatibilidad hasta la versión 2.0.
